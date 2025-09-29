@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *BeReal Pt. 2*
 
 Submitted by: **Your Name Here**
 
